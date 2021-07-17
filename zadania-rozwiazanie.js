@@ -21,6 +21,7 @@ console.log(reverseText);
 
 /*________________ Zadanie 2 */
 /* Napisz kod który zmienia wszystkie a w tekście na x, a 'b' (małe i duże) na z. Mozesz użyć tylko pętli i instrukcji warunkowej */
+//
 
 const startText2 = "Hejka, tutaj Beata 'betka' Kowalska!";
 let reverseText2 = "";
