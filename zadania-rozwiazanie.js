@@ -1,4 +1,4 @@
-/*________________ Zadanie 1 */
+/*___ _ Zadanie 1 */
 /* Napisz kod który odwraca tworzy nowego stringa odwracając kolejność stringa na którym wykonywane jest zadanie */
 /* Nie używamy własnych ani wbudowanych funkcji (na to za wcześnie), używamy tylko pętli.*/
 
@@ -16,7 +16,6 @@ console.log(reverseText);
 //   reverseText += startText[i]
 // }
 // console.log(reverseText);
-
 
 
 /*________________ Zadanie 2 */
